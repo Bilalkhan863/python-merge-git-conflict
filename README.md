@@ -1,5 +1,5 @@
 # initial push 
-I'm learning and practicing the git merge conflicts
+Merge conflict, updating from github, I'm learning and practicing the git merge conflicts
 
 
 # second push
